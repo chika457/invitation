@@ -82,7 +82,7 @@ body {
   color: rgb(194, 73, 178);
   z-index: 1;
   transition: 0.5s;
-  font-weight: 800;
+  font-weight: 600;
 }
 .container .card:hover .box .content h3,
 .container .card:hover .box .content p
@@ -111,3 +111,5 @@ body {
   width: 50px;
   border-radius: 10px;
 }
+
+
